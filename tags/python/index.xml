@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Liva | Personal blog template</title>
+    <link>https://marybat.github.io/liva-play/tags/python/</link>
+    <description>Recent content in Python on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://marybat.github.io/liva-play/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do I get hard wraps instead of soft wraps?</title>
+      <link>https://marybat.github.io/liva-play/blog/post-1/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marybat.github.io/liva-play/blog/post-1/</guid>
+      <description>The same on the webpage Poetry in Typora (two spaces and Enter in the end of each line) Her memory was a mine: she knew by heart</description>
+    </item>
+    
+  </channel>
+</rss>

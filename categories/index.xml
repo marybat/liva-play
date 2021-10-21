@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Liva | Personal blog template</title>
+    <link>https://marybat.github.io/liva-play/categories/</link>
+    <description>Recent content in Categories on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://marybat.github.io/liva-play/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://marybat.github.io/liva-play/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marybat.github.io/liva-play/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
